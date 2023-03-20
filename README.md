@@ -1,7 +1,7 @@
 # nosql-challenge
 
+![terrace-hotel-stuffed-with-soft-furnitures-green-space](https://user-images.githubusercontent.com/117343047/226233638-ad2f0542-fb67-4fb3-8d1c-fb87400557e9.jpg
 
-### Module 12 Challenge"
 
 ### Before You Begin
 
