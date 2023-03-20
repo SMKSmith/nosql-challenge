@@ -1,6 +1,6 @@
 # nosql-challenge
 
-![terrace-hotel-stuffed-with-soft-furnitures-green-space](https://user-images.githubusercontent.com/117343047/226233638-ad2f0542-fb67-4fb3-8d1c-fb87400557e9.jpg
+![terrace-hotel-stuffed-with-soft-furnitures-green-space](https://user-images.githubusercontent.com/117343047/226233952-fc806077-fb36-48c0-83b6-193b4b446a48.jpg)
 
 
 ### Before You Begin
